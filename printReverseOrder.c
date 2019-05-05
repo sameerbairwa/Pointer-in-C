@@ -19,4 +19,5 @@ void main() {
       ptr--;
    }
     getch();
+	return 0;
 }
